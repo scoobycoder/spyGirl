@@ -1,0 +1,19 @@
+{
+  "name": "spygirl",
+  "version": "1.0.0",
+  "description": "Echo Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scoobycoder/spyGirl.git"
+  },
+  "author": "Nathan Halterman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scoobycoder/spyGirl/issues"
+  },
+  "homepage": "https://github.com/scoobycoder/spyGirl#readme"
+}
